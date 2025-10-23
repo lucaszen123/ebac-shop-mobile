@@ -6,7 +6,7 @@ export const config = {
     //port: 4723,
     
     user: 'oauth-lsentinger-45c6a',
-    key: 'feb10fe2-9c24-47f1-8781-716cbb1e1734',
+    key: '*************************',
     hostname: 'ondemand.us-west-1.saucelabs.com',
     port: 443,
     baseUrl: 'wd/hub',
